@@ -11,6 +11,6 @@ class TerzaActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_terza)
-        
+
     }
 }
