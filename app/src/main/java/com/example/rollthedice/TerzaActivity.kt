@@ -1,6 +1,7 @@
 package com.example.rollthedice
 
 import android.os.Bundle
+import android.widget.TextView
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -12,5 +13,16 @@ class TerzaActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_terza)
 
+        val TAG = "TerzaActivity"
+        val textViewRisultato = findViewById<TextView>(R.id.textViewRisultato)
+        val mioRandom = intent.getIntExtra("mioRandom", -1)
+
+        // Se il numero è dispari
+        if (mioRandom % 2 != 0) {
+            textViewRisultato.text = "Hai vinto!"
+        }
+        else {
+            textViewRisultato.text = "Hai Perso :("
+        }
     }
 }
