@@ -14,11 +14,11 @@
         android:text="Roll The Dice"
         android:textAlignment="center"
         android:textSize="48sp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/imageViewDadi"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.26" />
+        app:layout_constraintVertical_bias="0.66" />
 
     <Button
         android:id="@+id/btnTira"
@@ -30,7 +30,19 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/TextViewTitle"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewDadi"
         app:layout_constraintVertical_bias="0.654" />
+
+    <ImageView
+        android:id="@+id/imageViewDadi"
+        android:layout_width="307dp"
+        android:layout_height="241dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.531"
+        app:srcCompat="@drawable/dadi" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
