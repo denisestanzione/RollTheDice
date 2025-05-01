@@ -23,9 +23,9 @@ Una semplice ma coinvolgente applicazione Android che sfida la sorte con il lanc
 
 ---
 
-## 👾Struttura dell'app
+## 👾 Struttura dell'app
 
-### **Activity 1: Schermata iniziale💻**
+#### **Activity 1: Schermata iniziale💻**
 - **Layout:**
   - Due **'ImageView'** che rappresentano i due dadi
   - Un **'Button'** con testo **"Lancia"**
@@ -56,7 +56,7 @@ Una semplice ma coinvolgente applicazione Android che sfida la sorte con il lanc
 
 ---
 
-## 🤳Tecnologie utilizzate
+## 🤳 Tecnologie utilizzate
 - **Linguaggio:** Kotlin
 - **IDE:** Android Studio
 - **Framework:** Android SDK
@@ -65,7 +65,7 @@ Una semplice ma coinvolgente applicazione Android che sfida la sorte con il lanc
 
 ---
 
-## ✔Installazione
+## ✔ Installazione
 1. Clona il repository:
    ```bash
    https://github.com/denisestanzione/RollTheDice.git
@@ -75,14 +75,14 @@ Una semplice ma coinvolgente applicazione Android che sfida la sorte con il lanc
 
 ---
 
-## ➕Possibili aggiunte 
+## ➕ Possibili aggiunte 
 - Aggiunta di suoni al lancio del dado
 - Animazione del lancio dei dadi
 - Classifica con i risultati delle utlime partite
 
 ---
 
-## 📲Stato del progetto
+## 📲 Stato del progetto
 Il progetto è ancora in fase di sviluppo. 
    
   
