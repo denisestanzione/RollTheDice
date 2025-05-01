@@ -3,7 +3,7 @@
 ---
 
 - 👩‍💻Autore--> Stanzione Denise
-- 💻Piattaforma--> con API 35
+- 💻Piattaforma--> Android con API 35
 
 ---
 
