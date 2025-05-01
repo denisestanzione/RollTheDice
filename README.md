@@ -2,7 +2,7 @@
 
 ---
 
-Applicazione Android sviluppata in linguaggio Kotlin, che permette di sfidare la sorte con il lancio di un dado.
+Una semplice ma coinvolgente applicazione Android che sfida la sorte con il lancio di dadi. Il gioco si articola in tre schermate (activity) e mostra all'utente un risultato di vittoria o sconfitta in base alla parità del numero uscito. 
 
 ---
 
@@ -12,6 +12,8 @@ Applicazione Android sviluppata in linguaggio Kotlin, che permette di sfidare la
 
 ---
 
+## 📝Caratteristiche
+- **Tre Activity** ben definite per guidare l'utente attraverso il flusso del gioco
 
 
 
