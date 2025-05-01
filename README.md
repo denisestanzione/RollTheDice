@@ -8,7 +8,7 @@ Applicazione Android sviluppata in linguaggio Kotlin, che permette di sfidare la
 
 ## 👩‍💻Autore
 - Realizzato da Stanzione Denise
-- GitHub--> [@denisestanzione] (https://github.com/denisestanzione)
+- GitHub: [@denisestanzione](https://github.com/denisestanzione)
 
 
 
