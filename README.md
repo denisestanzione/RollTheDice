@@ -33,18 +33,17 @@ Una semplice ma coinvolgente applicazione Android che sfida la sorte con il lanc
 - **Funzionalità:**
   - Al clic sul bottone **"Lancia"**, viene generato un numero casuale tra 1 e 6, che verrà mostrato poi nella seconda Activity
 
---
  
  ### **Activity 2: Lancio dado🎰**
- - **Layout:**
+- **Layout:**
   - Una **'ImageView'** che mostra la faccia del dado uscito
   - Un **'Button'** con testo **"Risultato"**
 
- - **Funzionalità:**
+- **Funzionalità:**
   - Visualizza l'immagine del numero del dado
   - Al clic sul bottone **"Risultato"** passa alla terza Activity
 
---
+
 
 ### **Activity 3: Risultato🎖**
 - **Layout:**
