@@ -75,7 +75,7 @@ Una semplice ma coinvolgente applicazione Android che sfida la sorte con il lanc
 ---
 
 ## ➕ Possibili aggiunte 
-- Aggiunta di suoni al lancio del dado
+- Aggiunta di suoni al lancio dei dadi
 - Animazione del lancio dei dadi
 - Classifica con i risultati delle utlime partite
 
