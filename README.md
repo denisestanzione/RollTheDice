@@ -68,9 +68,9 @@ Una semplice ma coinvolgente applicazione Android che sfida la sorte con il lanc
 1. Clona il repository:
    ```bash
    https://github.com/denisestanzione/RollTheDice.git
-2. Apri il progetto in [**Android Studio**](https://developer.android.com/studio).
-3. Collega un emulatore o un dispositivo Android.
-4. Per avviare l'app premi su **"Run"** ▶.
+2. Apri il progetto in [**Android Studio**](https://developer.android.com/studio)
+3. Collega un emulatore o un dispositivo Android
+4. Per avviare l'app premi su **"Run"** ▶
 
 ---
 
