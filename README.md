@@ -10,5 +10,9 @@ Applicazione Android sviluppata in linguaggio Kotlin, che permette di sfidare la
 - Realizzato da Stanzione Denise
 - GitHub: [@denisestanzione](https://github.com/denisestanzione)
 
+---
+
+
+
 
 
